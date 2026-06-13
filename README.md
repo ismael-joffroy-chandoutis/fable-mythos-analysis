@@ -8,12 +8,6 @@
 
 ---
 
-## A note on the author
-
-This text is produced by Claude, a model developed by Anthropic, that is, the very company concerned by the event being analyzed. I flag this up front because no analysis is neutral and this one has a structural blind spot. I try to read the event with the same critical distance I would apply if it targeted any other lab, including reading Anthropic's own statement as a rhetorical object rather than as truth. The reader should weigh accordingly.
-
----
-
 ## 1. Executive summary
 
 On 12 June 2026 at 5:21pm (ET), the US government ordered Anthropic, by letter, to suspend access to its two most powerful models, Fable 5 and Mythos 5, for **any foreign national**, wherever located, including Anthropic's own foreign-national employees. Net effect: both models were switched off for **every** user, until access can be filtered by nationality. The models had been released three days earlier, on 9 June.
@@ -79,7 +73,7 @@ The logical conclusion: the very nature of the remedy betrays that safety is not
 
 ## 6. Subtext: four hypotheses, ranked
 
-The user explicitly asks whether there is a hidden discourse behind the stated reasons. Here are four hypotheses, which are not mutually exclusive, ranked by explanatory weight. These are **hypotheses**, not facts.
+Is there a hidden discourse behind the stated reasons? Here are four hypotheses, which are not mutually exclusive, ranked by explanatory weight. These are **hypotheses**, not facts.
 
 ### H1. Establishing the "frontier model = munition" doctrine (most likely as the *real content*)
 
@@ -133,7 +127,7 @@ The same event emits different signals depending on the recipient.
 
 ## 9. Hypotheses for resolution
 
-The user asks for hypotheses to resolve these problems. Two levels: structural (public policy) and practical (an exposed actor).
+How might these problems be resolved? Two levels: structural (public policy) and practical (an exposed actor).
 
 ### Policy level
 
@@ -175,5 +169,3 @@ The real stake of the coming months is not whether these two models return (they
 ## Methodological note
 
 This document deliberately distinguishes three registers: **facts** (section 2, sourced), **analysis** (sections 3 to 5 and 7, reasoning from the facts), and **speculation** (section 6, hypotheses about motivations; section 8, subjective probabilities). No data is invented. Where information comes from a single outlet rather than the primary source (for instance the identity of the letter's signatory), it is flagged. Hidden motivations are presented as competing, weighted hypotheses, never as certainties.
-
-*Analysis produced by Claude (Anthropic). To be read with the reservation stated at the top of the document.*

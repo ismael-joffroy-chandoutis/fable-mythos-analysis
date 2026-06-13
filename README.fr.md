@@ -8,12 +8,6 @@
 
 ---
 
-## Avertissement sur l'auteur
-
-Ce texte est produit par Claude, un modèle développé par Anthropic, c'est-à-dire l'entreprise directement concernée par l'événement analysé. Je le signale d'emblée parce qu'aucune analyse n'est neutre et que celle-ci a un angle mort structurel. Je m'efforce ici de lire l'événement avec la même distance critique que s'il visait n'importe quel autre laboratoire, y compris en lisant le communiqué d'Anthropic comme un objet rhétorique et non comme une vérité. Au lecteur de pondérer.
-
----
-
 ## 1. Résumé exécutif
 
 Le 12 juin 2026 à 17h21 (heure de l'Est), le gouvernement américain a ordonné par lettre à Anthropic de suspendre l'accès à ses deux modèles les plus puissants, Fable 5 et Mythos 5, pour **tout ressortissant étranger**, où qu'il se trouve, y compris les salariés étrangers d'Anthropic. Effet net : les deux modèles ont été coupés pour **tous** les utilisateurs, le temps de pouvoir filtrer par nationalité. Les modèles sont sortis trois jours plus tôt, le 9 juin.
@@ -55,7 +49,7 @@ Autrement dit, indépendamment de l'issue de ce cas précis, **l'administration 
 
 ## 4. La manière : vitesse, forme, disproportion
 
-L'utilisateur demande ce qu'implique le fait que l'État intervienne « comme ça ». La manière est aussi significative que le fond.
+La question n'est pas seulement ce que l'État a fait, mais le fait qu'il soit intervenu « comme ça ». La manière est aussi significative que le fond.
 
 **Vitesse.** Trois jours après la sortie. Soit le gouvernement surveillait étroitement le lancement (pré-positionnement), soit il a réagi en quasi temps réel à la démonstration d'un concurrent, soit les deux. Dans tous les cas, l'appareil de sécurité nationale était prêt à agir sur un modèle d'IA en quelques heures. Ce n'est pas une lenteur bureaucratique : c'est une capacité d'intervention rapide, déjà rodée.
 
@@ -79,7 +73,7 @@ Conclusion logique : la nature même du remède trahit que la sûreté n'est pas
 
 ## 6. Sous-discours : quatre hypothèses, classées
 
-L'utilisateur demande explicitement s'il existe un discours caché derrière les raisons affichées. Voici quatre hypothèses, qui ne s'excluent pas, classées par poids explicatif. Ce sont des **hypothèses**, pas des faits.
+Existe-t-il un discours caché derrière les raisons affichées ? Voici quatre hypothèses, qui ne s'excluent pas, classées par poids explicatif. Ce sont des **hypothèses**, pas des faits.
 
 ### H1. Établir la doctrine « modèle frontière = munition » (la plus probable comme *contenu réel*)
 
@@ -133,7 +127,7 @@ Fourchettes **subjectives**, datées du 13 juin 2026, fondées sur une informati
 
 ## 9. Hypothèses de résolution
 
-L'utilisateur demande des hypothèses pour résoudre ces problématiques. Deux niveaux : structurel (politique publique) et pratique (acteur exposé).
+Comment résoudre ces problématiques ? Deux niveaux : structurel (politique publique) et pratique (acteur exposé).
 
 ### Niveau politique
 
@@ -175,5 +169,3 @@ Le vrai enjeu des prochains mois n'est pas de savoir si ces deux modèles revien
 ## Note méthodologique
 
 Ce document distingue volontairement trois registres : les **faits** (section 2, sourcés), l'**analyse** (sections 3 à 5 et 7, raisonnements à partir des faits), et la **spéculation** (section 6, hypothèses sur les motivations ; section 8, probabilités subjectives). Aucune donnée n'est inventée. Lorsqu'une information provient d'un seul média et non de la source primaire (par exemple l'identité du signataire de la lettre), c'est signalé. Les motivations cachées sont présentées comme des hypothèses concurrentes et pondérées, jamais comme des certitudes.
-
-*Analyse produite par Claude (Anthropic). À lire avec la réserve indiquée en tête de document.*
