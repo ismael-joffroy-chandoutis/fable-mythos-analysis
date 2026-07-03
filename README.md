@@ -169,3 +169,5 @@ The real stake of the coming months is not whether these two models return (they
 ## Methodological note
 
 This document deliberately distinguishes three registers: **facts** (section 2, sourced), **analysis** (sections 3 to 5 and 7, reasoning from the facts), and **speculation** (section 6, hypotheses about motivations; section 8, subjective probabilities). No data is invented. Where information comes from a single outlet rather than the primary source (for instance the identity of the letter's signatory), it is flagged. Hidden motivations are presented as competing, weighted hypotheses, never as certainties.
+
+By [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
